@@ -20,7 +20,7 @@ function validar() {
 
 	}else {
 		alert("Datos enviados correctamente");
-		document.getElementById("login").action="../index.html";
+		document.getElementById("login").action="https://anthony230616.github.io/kasigcha1_Tarea_3_CODIGO/";
 	}
 	
 }
